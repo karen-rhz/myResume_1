@@ -4,6 +4,11 @@ teal : #8CBEB2
 pale-yellow : #F2EBBF
 orange-pastel : #F3B562 ☀️ accent
 red-pastel : #F06060
+
+    --gradientColorZero: #a960ee;
+    --gradientColorOne: #ff333d;
+    --gradientColorTwo: #90e0ff;
+    --gradientColorThree: #ffcb57;
 */
 
 h1 {
@@ -24,6 +29,9 @@ p {
 a {
   text-decoration: none;
   color: #8CBEB2;
+}
 
+.numbers {
+  padding: 8px 4px 8px 4px;
 }
 
